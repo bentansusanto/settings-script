@@ -22,3 +22,15 @@ add into settings.json
     "source.organizeImports": true,
     "source.fixAll": true
   },
+  
+ ##theme vs code 
+ 1. One Monokai Theme
+ 2. Material Icon Theme
+ 3. Eslint
+ 4. Quokka
+ 5. Vue Snippet
+ 6. Tailwindcss
+ 7. Prettier
+ 8. Beauify
+ 9. Auto Rename Tag
+ 10.EditorConfig VS Code
