@@ -6,6 +6,8 @@ add this script in package.json
 "dev": "NODE_OPTIONS=--openssl-legacy-provider nuxt" // if using nuxt js
 "dev": "NODE_OPTIONS=--openssl-legacy-provider next" // if using next js
 
+https://codesandbox.io/s/custom-vuejs-select-component-8nqgd?file=/components/CustomSelect.vue
+
 ## setting tidy code 
 add into settings.json
 },
