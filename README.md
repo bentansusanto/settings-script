@@ -25,6 +25,11 @@ add into settings.json
     "source.fixAll": true
   },
   
+  // settingan nvm for node js
+  1. Install nvm
+  2. setting install node js versi 14.21.1 => nvm install 14.21.1
+  3. use node js versi 14.21.1 => nvm use 14
+  
  ##theme vs code 
  1. One Monokai Theme
  2. Material Icon Theme
